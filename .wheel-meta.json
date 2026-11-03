@@ -1,0 +1,22 @@
+{
+  "wheel_id": 692,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-155",
+  "project": "retaining-wall-builders-canberra-glossary-a9e25f0a26985cc5ec2e2",
+  "parent_t1_ref": "retainingwallscanberra-008",
+  "node_role": "buffer",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining wall builders canberra glossary",
+  "intended_url": "http://retaining-wall-builders-canberra-glossary-a9e25f0a26985cc5ec2e2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a922b5a2eb95bf4b",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-builders-canberra/",
+      "anchor": "more on retaining wall builders canberra",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
